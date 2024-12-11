@@ -1,5 +1,4 @@
 -  Hi, I’m @tianbinghao
--  I use this to record my growth.
 -  Nice to meet you.
 
 <!---
